@@ -52,5 +52,5 @@ These are mostly **educational projects**, but they show my skills and learning 
 ## 📞 Contact
 **Volodymyr Osadchyi**  
 📍 Poznań, Poland  
-📧 volodymyr.osadchyi.work@gmail.com  
-📱 +48 788 375 908
+📧 **volodymyr.osadchyi.work@gmail.com**  
+📱 **+48 788 375 908**
